@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Gubbala Venu Gopal</h1>
 <h3 align="center">a passionate data scientist and AI/ML enthusiast with a strong drive to explore the world of data and its endless possibilities.</h3>
 
