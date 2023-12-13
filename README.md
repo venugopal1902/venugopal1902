@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/g.venugopal2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venugopal1902" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gvenugopal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venugopal1902" height="30" width="40" /></a>
 <a href="https://leetcode.com/gubbalavenugopal/" target="blank"><img align="center" src="" alt="venugopal1902" height="30" width="40" /></a>
-[<img src="LeetCode_logo_black.png">]([https://link-to-your-URL/](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))  
+[<img src="LeetCode_logo_black.png">](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
 </p>
 
 
