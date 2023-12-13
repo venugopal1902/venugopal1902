@@ -1,6 +1,3 @@
-<img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="venugopal1902" height="30" width="40" />
- <a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a> 
-
 <h1 align="center">Hi 👋, I'm Gubbala Venu Gopal</h1>
 <h3 align="center">a passionate data scientist and AI/ML enthusiast with a strong drive to explore the world of data and its endless possibilities.</h3>
 
