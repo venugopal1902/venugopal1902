@@ -3,7 +3,6 @@
       <img src="LeetCode_logo_black.png" alt="User 1 Instagram Profile">
   </a>
  <a href="https://iconscout.com/icons/leetcode" class="text-underline font-size-sm" target="_blank">Leetcode</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a> 
-<img align="center" src="https://github.com/venugopal1902/venugopal1902/blob/336d6e9ee5103591f5aebfdc8fb1245cdc75d6ee/LeetCode_logo_black.png" alt="venugopal1902" height="30" width="40" />
 
 <h1 align="center">Hi 👋, I'm Gubbala Venu Gopal</h1>
 <h3 align="center">a passionate data scientist and AI/ML enthusiast with a strong drive to explore the world of data and its endless possibilities.</h3>
