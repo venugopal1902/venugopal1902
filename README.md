@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venugopal1902&label=Profile%20views&color=0e75b6&style=flat" alt="venugopal1902" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venugopal1902" alt="venugopal1902" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venugopal1902" alt="venugopal1902" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/venu39957214909" target="blank"><img src="https://img.shields.io/twitter/follow/venu39957214909?logo=twitter&style=for-the-badge" alt="venu39957214909" /></a> </p>
 
