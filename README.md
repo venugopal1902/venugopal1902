@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://twitter.com/venu39957214909" target="blank"><img src="https://img.shields.io/twitter/follow/venu39957214909?logo=twitter&style=for-the-badge" alt="venu39957214909" /></a> </p>
 
 - 🌱 I’m currently learning **MLOPs, Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://venugopal1902.github.io/](https://venugopal1902.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://venugopal1902.github.io/](https://venugopal1902.github.io/) -->
 
 - 💬 Ask me about **Machine Learning , Data Science , Full Stack**
 
