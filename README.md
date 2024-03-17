@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **venugopal1902@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1KrUPbjkyJ4HejojmYJ-31m1C45CojvTn]
+- 📄 Know about my experiences (https://drive.google.com/file/d/10yzU4GlXijfkn7lpLqi8qkbffk-O3EmF/view?usp=sharing)
 
 
 
